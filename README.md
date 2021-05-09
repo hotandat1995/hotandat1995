@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hotandat1995
 - 👀 I’m interested in Embeded system
-- 🌱 I’m currently learning python, C, compiler, ...
-- 💞️ I’m looking to collaborate on any domain.
+- 🌱 I’m currently learning python, C, compiler, HTML, CSS, FLASK
 - 📫 How to reach me: hotandat_1995@yahoo.com.vn
 
 <!---
